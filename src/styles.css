@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  background-color: orange; /* Orange */
+  transition-duration: 0.4s;
+  color: white;
+  padding: 15px 32px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: orangered;
+  /*padding: 20px 37px;*/
+}
+
+div.button {
+  display: inline-block;
+}
